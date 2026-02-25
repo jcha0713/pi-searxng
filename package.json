@@ -5,6 +5,10 @@
   "type": "module",
   "keywords": ["pi-package", "pi", "searxng", "web-search", "github"],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jcha0713/pi-searxng"
+  },
   "files": [
     "index.ts",
     "searxng.ts",
