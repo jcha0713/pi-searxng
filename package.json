@@ -1,6 +1,6 @@
 {
   "name": "pi-searxng",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "SearXNG web search extension for Pi with automatic GitHub repo cloning",
   "type": "module",
   "keywords": [

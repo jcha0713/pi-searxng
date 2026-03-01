@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.4] - 2025-03-01
+
+### Changed
+- Code cleanup: removed experimental query editor feature to maintain clean agent workflow.
+
 ## [1.0.3] - 2025-03-01
 
 ### Fixed
